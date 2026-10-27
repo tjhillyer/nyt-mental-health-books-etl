@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+.env
+nytimes_mental_health_keywords/
